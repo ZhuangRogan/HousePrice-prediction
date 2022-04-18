@@ -10,4 +10,4 @@ Strategy:
 
 Result:
 * The absolute prediction error is 814 $.
-* Outperformed 99.96% of competitors.
+* Outperformed *99.96%* of competitors.
